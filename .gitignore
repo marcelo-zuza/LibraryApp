@@ -1,0 +1,32 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Database files (SQLite)
+*.db
+*.db-journal
+
+# Entity Framework Migrations
+Migrations/
+
+# DotNet dependencies
+*.log
+*.cache
+*.pdb
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
